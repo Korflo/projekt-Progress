@@ -74,4 +74,12 @@
 	p {
 		color: $color-text-light;
 	}
+
+	.footer-below {
+		.list-inline {
+			i {
+				font-size: 25px;
+			}
+		}
+	}
 }
